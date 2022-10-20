@@ -1,4 +1,4 @@
-# Project-First_Class_Interior
+#FirstClass_Interior
 Term 4 assessment 1 (Project First Class Interior)
 (Description of Project, Purpose, Your Company Credits)
 This project is to showcase our individual ability to work together as a team while doing our desiignated/ deligated tasks that contribute to our project.
